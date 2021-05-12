@@ -12,6 +12,7 @@ Category
 
 - [Notification Apps](#Notification)
 - [Bookmark Apps](#Bookmark)
+- [Finance Apps](#Finance)
 
 
 ### Notification
@@ -25,3 +26,9 @@ Sync Android notifications encrypted using TLS to a Linux desktop over WiFi, Mob
 
 - [LinkAce] (https://github.com/Kovah/LinkAce)
 LinkAce is a bookmark archive. It wasn't built to manage the bookmarks of your browser but has its very own philosophy. My browser bookmarks contain only websites I regularly use and access. LinkAce, in contrast, is meant to provide a long-term archive of links to websites, media files or anything else which has a valid URL. I store interesting articles, neat web tools or libraries I may use sometime in the future.
+
+### Finance
+--------
+
+- [deepstream.io] (https://github.com/deepstreamIO/deepstream.io)
+deepstream is an open source server inspired by concepts behind financial trading technology. It allows clients and backend services to sync data, send messages and make rpcs at very high speed and scale.
